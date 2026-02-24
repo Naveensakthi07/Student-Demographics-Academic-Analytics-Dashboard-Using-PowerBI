@@ -1,36 +1,70 @@
-# Student-Demographics-Academic-Analytics-Dashboard-Using-PowerBI
- 📌 Objective
-To analyze student demographic patterns, course enrollment trends, age distribution, gender ratio, and geographic distribution.
-<img width="1399" height="797" alt="image" src="https://github.com/user-attachments/assets/7ce8494f-c5f8-4a01-98e1-a8d4ee1ce623" />
+## 🎯 Project Objective
 
-### 📊 Key KPIs
-- Total Students
-- Average Age
-- Male / Female Count
-- Town Count
-
-### 📈 Insights Delivered
-- Course-wise enrollment trends
-- Age-wise student distribution
-- District-wise student strength
-- Gender ratio analysis
-- State-wise student comparison
-
-### 🛠 Tools Used
-- Power BI
-- Data Cleaning
-- Data Modeling
-- DAX Measures
-- Dashboard Design Principles
+- Analyze student distribution by course and department  
+- Study age-wise student strength  
+- Understand gender and district-wise representation  
+- Visualize geographic spread of students  
 
 ---
 
-## 🚀 Skills Demonstrated
+## 📊 Key Features
 
-- Data Cleaning & Transformation
-- Data Modeling
-- KPI Development
-- Business Intelligence Reporting
-- Interactive Dashboard Design
-- Analytical Thinking
-- Visual Storytelling
+- Total student count, average age, male & female counts  
+- Course-wise student enrollment analysis  
+- Age-wise student strength visualization  
+- District-wise and state-wise student distribution  
+- Gender distribution donut chart  
+- Interactive slicers for course, gender, department, batch, and year  
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop  
+- Power Query  
+- DAX  
+- Excel dataset  
+
+---
+
+## 📁 Dataset Overview
+
+- Student Roll Number  
+- Age  
+- Gender  
+- Course  
+- Department  
+- District  
+- State  
+- Batch / Year  
+
+---
+
+## 💡 Insights Generated
+
+- Identifies most popular courses  
+- Highlights dominant age groups  
+- Shows geographic concentration of students  
+- Helps institutions plan admissions and outreach strategies  
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="1399" height="797" alt="image" src="https://github.com/user-attachments/assets/7ce8494f-c5f8-4a01-98e1-a8d4ee1ce623" />
+
+---
+
+## 🚀 Future Enhancements
+
+- Academic performance metrics  
+- Attendance analysis  
+- Dropout prediction  
+- Scholarship eligibility tracking  
+
+---
+
+## 👤 Author
+
+Naveen Sakthi.R  
+MBA – Business Analytics  
